@@ -1,5 +1,5 @@
 # Python-Basics
-Coding bat challenges and hackerrank - Solved (which were solvable by me)
+Coding bat challenges and hacker-rank - Solved (which were solvable by me)
 
 # Coding challenges brief info
 Coding challenges which I was able to solve. I have included the code along with a brief explanation.
