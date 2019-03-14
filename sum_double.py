@@ -9,7 +9,7 @@ sum_double(2, 2) → 8
 #Solution Code:
 
 def sum_double(a, b):
-  if a==b:
-    return 2*(a+b)
-  else:
+  if a!=b:
     return a+b
+  elif a==b:
+    return (a+b)+(a+b)
