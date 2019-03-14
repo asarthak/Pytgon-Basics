@@ -10,7 +10,7 @@ diff21(21) → 0
 
 def diff21(n):
   if n>21:
-    return 2*(abs(21-n))
+    return 2*abs(n-21)
   else:
-    return abs(21-n)
-    
+    return abs(n-21)
+
